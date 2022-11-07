@@ -3,6 +3,15 @@
     "near-cli": "^3.4.2"
   },
   "devDependencies": {
-    "assemblyscript": "^0.22.0"
-  }
+    "assemblyscript": "^0.22.0",
+    "near-sdk-as": "^3.2.3"
+  },
+  "name": "sampledapp1",
+  "version": "1.0.0",
+  "description": "sample dapp app in assemblyScript 20221107",
+  "main": "index.js",
+  "repository": "https://github.com/daveroberts0321/sampledapp1.git",
+  "author": "Dave Roberts <dave@tac-llc.com>",
+  "license": "GMU",
+  "private": true
 }
