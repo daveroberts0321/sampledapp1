@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@types/node": "^18.11.9",
     "near-cli": "^3.4.2"
   },
   "devDependencies": {
@@ -9,7 +10,7 @@
   "name": "sampledapp1",
   "version": "1.0.0",
   "description": "sample dapp app in assemblyScript 20221107",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/daveroberts0321/sampledapp1.git",
   "author": "Dave Roberts <dave@tac-llc.com>",
   "license": "GMU",
