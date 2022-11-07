@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "near-cli": "^3.4.2"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.22.0"
+  }
+}
